@@ -12,8 +12,8 @@ import (
 
 // rootCmd represents the base command when called without any subcommands
 var rootCmd = &cobra.Command{
-	Use:     "invenio",
-	Version: "v0.1.3",
+	Use:     "inveniordm",
+	Version: "v0.1.5",
 	Short:   "",
 	Long:    ``,
 
