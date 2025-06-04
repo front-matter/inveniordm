@@ -30,4 +30,6 @@ func Execute() {
 }
 
 func init() {
+	rootCmd.PersistentFlags().StringP("host", "", "", "InvenioRDM host")
+	rootCmd.PersistentFlags().StringP("token", "", "", "API token")
 }

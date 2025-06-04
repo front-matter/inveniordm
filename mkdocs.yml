@@ -1,7 +1,7 @@
-site_name: Invenio
+site_name: InvenioRDM
 site_dir: _site
-site_url: https://invenio.front-matter.io
-repo_url: https://github.com/front-matter/invenio
+site_url: https://inveniordm.front-matter.io
+repo_url: https://github.com/front-matter/inveniordm
 edit_uri: edit/main/docs/
 repo_name: front-matter/invenio
 copyright: Copyright &copy; 2025 Front Matter
@@ -20,7 +20,7 @@ theme:
   name: material
   custom_dir: docs
   logo: assets/invenio.png
-  palette:    
+  palette:
     - media: "(prefers-color-scheme: light)"
       scheme: starter-light
       toggle:
@@ -38,7 +38,7 @@ extra:
   social:
     - icon: fontawesome/solid/paper-plane
       link: mailto:<info@front-matter.io>
-    - icon: fontawesome/brands/mastodon 
+    - icon: fontawesome/brands/mastodon
       link: https://hachyderm.io/@mfenner
     - icon: fontawesome/brands/github
       link: https://github.com/front-matter/invenio
