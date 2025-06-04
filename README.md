@@ -4,7 +4,7 @@
 
 # inveniordm
 
-Command-line tool to create and manage an InvenioRDM instance. The library is under active development and basic functionality is not yet working. Expect a first working release by June 2025.
+Command-line tool to create and manage an [InvenioRDM](https://inveniordm.docs.cern.ch/) instance. The library is under active development and basic functionality is not yet working. Expect a first working release by June 2025.
 
 ## Installation
 
